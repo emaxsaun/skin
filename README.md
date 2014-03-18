@@ -1,4 +1,4 @@
-Skin Base64 Packager for JW Player
+Base64 Skin Packager for JW Player
 ==========
 
 This is a small Python Script for use with the JW Player. It will convert your JW Player source skin into a base64 encoded skin. 
